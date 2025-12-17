@@ -6,7 +6,7 @@ import Usestate from "./components/usestate"
 const App = () => {
   return (
     <>
-    <Count/>
+    <Usestate/>
     </>
   )
 }
