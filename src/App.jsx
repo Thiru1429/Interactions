@@ -1,13 +1,13 @@
-import Home from "./components/Home"
-import Intraction from "./components/Intraction"
-import Navbar from "./components/Navbar"
+
+import Count from "./components/Count"
+import Usestate from "./components/usestate"
 
 
 const App = () => {
   return (
-    <div>
-      <Intraction/>
-    </div>
+    <>
+    <Count/>
+    </>
   )
 }
 
